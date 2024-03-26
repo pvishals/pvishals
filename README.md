@@ -1,6 +1,6 @@
 # **Name - Vishal Puri**
 
-##** Professional Summary**
+## Professional Summary
 
 I have been involved in the software development business and have experience in working throughout the Software 
 Development Life Cycle (SDLC). I have hands on experience in Product Management, implementing Collaboration Projects, 
